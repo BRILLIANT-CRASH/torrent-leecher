@@ -1,5 +1,5 @@
 # Torrent Leecher
-### Moded By VISHNU </a>
+### Made By VISHNU </a>
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
